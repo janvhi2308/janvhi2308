@@ -14,7 +14,7 @@
 - 🤖 Built **ScholarBot** — an AI chatbot for students using Flask + Llama 3.3 70B
 - 📊 Working with **Python, SQL, and Power BI** for data analysis
 - 🌱 Currently exploring **Machine Learning and NLP**
-- 🌐 Check out my blog: [Decodedbyjanvhi.me](https://Decodedbyjanvhi.me)
+- 🌐 Check out my portfolio: [decodedbyjanhvi.me](https://decodedbyjanhvi.me/)
 
 ---
 
@@ -58,7 +58,7 @@
   <a href="https://www.linkedin.com/in/janvhi-chaurasia">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://Decodedbyjanvhi.me">
+  <a href="https://decodedbyjanhvi.me/">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=hashnode&logoColor=white"/>
   </a>
   <a href="https://github.com/janvhi2308">
