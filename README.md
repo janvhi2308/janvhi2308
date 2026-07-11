@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://Decodedbyjanvhi.me">
-    <img src="https://img.shields.io/badge/Blog-7C3AED?style=for-the-badge&logo=hashnode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=hashnode&logoColor=white"/>
   </a>
   <a href="https://github.com/janvhi2308">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
