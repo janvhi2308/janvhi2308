@@ -130,12 +130,14 @@ me.say_hi()
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janvhi2308&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janvhi2308&theme=tokyonight&hide_border=true" width="65%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janvhi2308&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janvhi2308&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=6" width="38%" />
+  <img src="https://img.shields.io/badge/🗓️_Total_Contributions-131-4CAF50?style=for-the-badge" />&nbsp;
+  <img src="https://img.shields.io/badge/🔥_Longest_Streak-10_Days-FF6B6B?style=for-the-badge" />&nbsp;
+  <img src="https://img.shields.io/badge/📁_Public_Repos-16+-8B5CF6?style=for-the-badge" />&nbsp;
+  <img src="https://img.shields.io/badge/⚡_LeetCode_Solved-46-FFA116?style=for-the-badge" />
 </p>
 
 ---
