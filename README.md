@@ -57,10 +57,14 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌟 Currently Working On
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=janvhi2308&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+
+| 🔭 Exploring | 🌱 Learning | 💬 Ask Me About | ⚡ Fun Fact |
+|:---:|:---:|:---:|:---:|
+| LLMs & Generative AI | Deep Learning & MLOps | Python, NLP, Data Science | I debug with print() and I'm proud of it 😄 |
+
 </p>
 
 ---
