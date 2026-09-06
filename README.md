@@ -24,10 +24,6 @@
   <img src="https://img.shields.io/github/followers/janvhi2308?label=FOLLOWERS&style=for-the-badge&color=8B5CF6" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast+🧠;NLP+%26+AI+Explorer+🤖;Turning+Raw+Data+into+Decisions+📊;Building+Models+that+Make+Sense+🚀;Always+Learning%2C+Always+Growing+✨" alt="Typing SVG" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20&height=100&section=header&fontSize=18&fontColor=fff&animation=fadeIn" width="100%" />
 
 ---
