@@ -99,6 +99,18 @@
 
 ---
 
+## 🟩 LeetCode Activity
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/janvhi2308?theme=dark&font=baloo_2&ext=heatmap" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/janvhi2308?theme=dark&font=baloo_2&width=500&border=0&border_radius=10" />
+</p>
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20&height=80&section=footer" width="100%" />
 
 <p align="center">
