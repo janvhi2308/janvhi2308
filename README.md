@@ -1,7 +1,9 @@
-<h1 align="center">✨ Hi there, I'm Janhvi! 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20&height=120&section=header&text=Hey%2C+I'm+Janhvi!+👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data+Scientist+%7C+NLP+Explorer+%7C+Insight+Decoder&descAlignY=60&descSize=16" width="100%" />
 
 <p align="center">
-  🧠 Data Science Enthusiast &nbsp;•&nbsp; NLP Explorer &nbsp;•&nbsp; Insight Decoder
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast+🧠;NLP+%26+AI+Explorer+🤖;Turning+Raw+Data+into+Decisions+📊;Building+Models+that+Make+Sense+🚀;Always+Learning%2C+Always+Growing+✨" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -21,68 +23,99 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=janvhi2308&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/janvhi2308?label=FOLLOWERS&style=for-the-badge&color=8B5CF6" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20&height=100&section=header&text=Decoding+Data%2C+One+Model+at+a+Time+🧬&fontSize=18&fontColor=fff&animation=fadeIn" width="100%" />
 
 ---
 
 ## 🦉 A Little Bit About Me
 
-```json
-{
-  "name"    : "Janhvi Chaurasia",
-  "status"  : "Data Science Enthusiast",
-  "mindset" : "Turning raw data into real-world decisions",
-  "passions": [
-    "Building NLP & AI-powered applications",
-    "Uncovering stories hidden inside data",
-    "Training models that actually make sense 🤖"
-  ]
-}
+```python
+class Janhvi:
+    def __init__(self):
+        self.name      = "Janhvi Chaurasia"
+        self.status    = "Data Science Enthusiast 🧠"
+        self.mindset   = "Turning raw data into real-world decisions"
+        self.currently = "Building AI-powered apps & exploring NLP"
+        self.passions  = [
+            "Natural Language Processing 🗣️",
+            "Machine Learning & Deep Learning 🤖",
+            "Data Visualization & Storytelling 📊",
+            "Open Source & Continuous Learning 🌱"
+        ]
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's decode the world with data 🚀")
+
+me = Janhvi()
+me.say_hi()
 ```
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=janvhi2308&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</p>
 
 ---
 
 ## 🛠️ What I Cook With
 
+<p align="center">
+
 | Domain | Technologies & Tooling |
-|---|---|
+|:---|:---|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | **ML / DL** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21F?style=flat-square) |
 | **Data & Viz** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-3E6CB4?style=flat-square) |
 | **BI & Apps** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
 | **Dev Tools** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
+</p>
+
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 [AI Chatbot](https://github.com/janvhi2308) &nbsp;•&nbsp; Conversational AI Application
-
-> An intelligent chatbot powered by NLP and transformer-based language models.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21F?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-- Built an end-to-end conversational AI using pre-trained transformer models
-- Deployed with an interactive Streamlit interface for real-time conversations
-- Handles context-aware, multi-turn dialogue seamlessly
-
-[**View Code →**](https://github.com/janvhi2308)
-
----
-
-### 📊 [Sentiment Analysis](https://github.com/janvhi2308/Sentiment-Analysis-project) &nbsp;•&nbsp; NLP & Text Classification
-
-> End-to-end sentiment analysis pipeline on **1,465 Amazon product reviews** using Python & VADER NLP — with an interactive live dashboard.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![VADER NLP](https://img.shields.io/badge/NLP-VADER-F59E0B?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-- Classified **1,211 reviews** with **95% positive sentiment** detected
-- Achieved avg VADER compound score of **0.831 / 1.0**
-- Built an interactive Chart.js dashboard with donut charts, histograms & KPI cards
-
-[**View Code →**](https://github.com/janvhi2308/Sentiment-Analysis-project) &nbsp;&nbsp; [**Live Dashboard →**](https://janvhi2308.github.io/Sentiment-Analysis-project/dashboard.html)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Chatbot</h3>
+      <p><b>Conversational AI Application</b></p>
+      <p>An intelligent chatbot powered by NLP and transformer-based language models with real-time interaction.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21F?style=flat-square" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      </p>
+      <ul>
+        <li>End-to-end conversational AI with transformer models</li>
+        <li>Context-aware, multi-turn dialogue support</li>
+        <li>Interactive Streamlit interface for real-time chat</li>
+      </ul>
+      <a href="https://github.com/janvhi2308"><b>View Code →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Sentiment Analysis</h3>
+      <p><b>NLP & Text Classification Pipeline</b></p>
+      <p>End-to-end sentiment analysis on 1,465 Amazon reviews using VADER NLP with an interactive live dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/VADER_NLP-F59E0B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      </p>
+      <ul>
+        <li>95% positive sentiment detected in 1,211 reviews</li>
+        <li>Avg VADER compound score of 0.831 / 1.0</li>
+        <li>Interactive Chart.js dashboard with KPI cards</li>
+      </ul>
+      <a href="https://github.com/janvhi2308/Sentiment-Analysis-project"><b>View Code →</b></a> &nbsp;
+      <a href="https://janvhi2308.github.io/Sentiment-Analysis-project/dashboard.html"><b>Live Demo →</b></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -111,8 +144,36 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20&height=80&section=footer" width="100%" />
+## 📊 Contribution Activity
 
 <p align="center">
-  <i>⭐ From <a href="https://github.com/janvhi2308">janvhi2308</a> — Let's decode the world with data!</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janvhi2308&theme=tokyo-night&hide_border=true&area=true&area_color=8B5CF6" width="100%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janvhi2308/janvhi2308/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janvhi2308/janvhi2308/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/janvhi2308/janvhi2308/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
+
+---
+
+## 💬 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20&height=100&section=footer&text=Let's+Connect+%26+Collaborate!&fontSize=24&fontColor=fff&animation=fadeIn" width="100%" />
+
+<p align="center">
+  <i>⭐ From <a href="https://github.com/janvhi2308">janvhi2308</a> — Let's decode the world with data! 🧬</i>
 </p>
