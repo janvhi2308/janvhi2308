@@ -1,9 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20&height=120&section=header&text=Hey%2C+I'm+Janhvi!+👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data+Scientist+%7C+NLP+Explorer+%7C+Insight+Decoder&descAlignY=60&descSize=16" width="100%" />
+<h1 align="center">✨ Hi there, I'm Janhvi! 👋</h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast+🧠;NLP+%26+AI+Explorer+🤖;Turning+Raw+Data+into+Decisions+📊;Building+Models+that+Make+Sense+🚀;Always+Learning%2C+Always+Growing+✨" alt="Typing SVG" />
-  </a>
+  🧠 Data Science Enthusiast &nbsp;•&nbsp; NLP Explorer &nbsp;•&nbsp; Insight Decoder
 </p>
 
 <p align="center">
@@ -25,6 +23,12 @@
   <img src="https://komarev.com/ghpvc/?username=janvhi2308&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/janvhi2308?label=FOLLOWERS&style=for-the-badge&color=8B5CF6" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast+🧠;NLP+%26+AI+Explorer+🤖;Turning+Raw+Data+into+Decisions+📊;Building+Models+that+Make+Sense+🚀;Always+Learning%2C+Always+Growing+✨" alt="Typing SVG" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20&height=100&section=header&fontSize=18&fontColor=fff&animation=fadeIn" width="100%" />
 
 ---
 
@@ -147,19 +151,7 @@ me.say_hi()
 ## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janvhi2308&theme=tokyo-night&hide_border=true&area=true&area_color=8B5CF6" width="100%" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janvhi2308/janvhi2308/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janvhi2308/janvhi2308/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/janvhi2308/janvhi2308/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janvhi2308&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
