@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hi there, I'm Janhvi! 👋</h1>
 
 <p align="center">
-  🧠 Data Science Enthusiast &nbsp;•&nbsp; NLP Explorer &nbsp;•&nbsp; Insight Decoder
+  🧠 ML / NLP Engineer &nbsp;•&nbsp; LLM Builder &nbsp;•&nbsp; Insight Decoder
 </p>
 
 <p align="center">
@@ -34,14 +34,15 @@
 class Janhvi:
     def __init__(self):
         self.name      = "Janhvi Chaurasia"
-        self.status    = "Data Science Enthusiast 🧠"
+        self.degree    = "B.Tech CSE @ PSIT Kanpur — CGPA 8.1 (2028)"
+        self.status    = "AI Virtual Intern @ IBM 🏢"
         self.mindset   = "Turning raw data into real-world decisions"
-        self.currently = "Building AI-powered apps & exploring NLP"
+        self.currently = "Building CuraVision AI (skin-condition classifier + RAG)"
         self.passions  = [
             "Natural Language Processing 🗣️",
             "Machine Learning & Deep Learning 🤖",
+            "LLMs, RAG & Generative AI 🦾",
             "Data Visualization & Storytelling 📊",
-            "Open Source & Continuous Learning 🌱"
         ]
 
     def say_hi(self):
@@ -59,7 +60,7 @@ me.say_hi()
 
 | 🔭 Exploring | 🌱 Learning | 💬 Ask Me About | ⚡ Fun Fact |
 |:---:|:---:|:---:|:---:|
-| LLMs & Generative AI | Deep Learning & MLOps | Python, NLP, Data Science | I debug with print() and I'm proud of it 😄 |
+| LLMs, RAG & Generative AI | Deep Learning & MLOps | Python, NLP, LLMs, Flask | I debug with print() and I'm proud of it 😄 |
 
 </p>
 
@@ -71,13 +72,25 @@ me.say_hi()
 
 | Domain | Technologies & Tooling |
 |:---|:---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **ML / DL** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21F?style=flat-square) |
-| **Data & Viz** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-3E6CB4?style=flat-square) |
-| **BI & Apps** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
-| **Dev Tools** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
+| **ML / AI** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![NLTK](https://img.shields.io/badge/NLTK-4EA94B?style=flat-square) ![VADER](https://img.shields.io/badge/VADER-F59E0B?style=flat-square) |
+| **Gen AI / LLM** | ![Groq](https://img.shields.io/badge/Groq-FF4B00?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square) ![Llama](https://img.shields.io/badge/Llama_3.3_70B-0467DF?style=flat-square) ![ChromaDB](https://img.shields.io/badge/ChromaDB-1A1A2E?style=flat-square) |
+| **Web / API** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **Data & Viz** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-3E6CB4?style=flat-square) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
+| **Databases & Tools** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-1A1A2E?style=flat-square) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 </p>
+
+---
+
+## 💼 Experience
+
+### 🏢 IBM — AI Virtual Intern *(Jun 2026 – Present)*
+*Project-Based Experiential Learning Program*
+
+- **Capstone:** Built **ScholarBot AI** — a Flask chatbot using Llama 3.3 70B (Groq API) for student queries on admissions, scholarships, and careers.
+- Applied Logistic Regression, Random Forest, and SVM in Scikit-learn; compared models using accuracy and F1 score.
+- Built CNN and RNN examples in PyTorch: defined layers, wrote training loops, and tracked loss & accuracy across epochs.
 
 ---
 
@@ -86,23 +99,7 @@ me.say_hi()
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 AI Chatbot</h3>
-      <p><b>Conversational AI Application</b></p>
-      <p>An intelligent chatbot powered by NLP and transformer-based language models with real-time interaction.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21F?style=flat-square" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-      </p>
-      <ul>
-        <li>End-to-end conversational AI with transformer models</li>
-        <li>Context-aware, multi-turn dialogue support</li>
-        <li>Interactive Streamlit interface for real-time chat</li>
-      </ul>
-      <a href="https://github.com/janvhi2308"><b>View Code →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Sentiment Analysis</h3>
+      <h3>📊 Amazon Sentiment Analysis</h3>
       <p><b>NLP & Text Classification Pipeline</b></p>
       <p>End-to-end sentiment analysis on 1,465 Amazon reviews using VADER NLP with an interactive live dashboard.</p>
       <p>
@@ -111,12 +108,67 @@ me.say_hi()
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
       </p>
       <ul>
-        <li>95% positive sentiment detected in 1,211 reviews</li>
-        <li>Avg VADER compound score of 0.831 / 1.0</li>
-        <li>Interactive Chart.js dashboard with KPI cards</li>
+        <li>Cleaned 1,465 → 1,211 usable reviews (dropped nulls & duplicates)</li>
+        <li>95.0% positive · 4.4% negative · avg VADER score 0.831</li>
+        <li>Found star-vs-sentiment mismatches (4–5 ⭐ with negative text)</li>
       </ul>
       <a href="https://github.com/janvhi2308/Sentiment-Analysis-project"><b>View Code →</b></a> &nbsp;
       <a href="https://janvhi2308.github.io/Sentiment-Analysis-project/dashboard.html"><b>Live Demo →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 ScholarBot — Student Assistant Chatbot</h3>
+      <p><b>LLM-Powered Conversational AI</b></p>
+      <p>Flask chatbot powered by Llama 3.3 70B via Groq API, scoped to admissions, scholarships, internships, careers, and stress management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Groq_API-FF4B00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Llama_3.3_70B-0467DF?style=flat-square" />
+      </p>
+      <ul>
+        <li>Server-side conversation history for multi-turn follow-ups</li>
+        <li>System prompt keeps bot on-topic across all sessions</li>
+        <li>Fetch API with no page reload · typing indicator · session-clear button</li>
+      </ul>
+      <a href="https://github.com/janvhi2308/ScholarBot"><b>View Code →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 CuraVision AI — Health Diagnosis Assistant</h3>
+      <p><b>Vision + RAG Multimodal App</b> <i>(in progress)</i></p>
+      <p>Streamlit app with a RAG prescription tool (ChromaDB + LLM) and a skin-condition image classifier powered by EfficientNet-B4.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+        <img src="https://img.shields.io/badge/ChromaDB-1A1A2E?style=flat-square" />
+      </p>
+      <ul>
+        <li>Fine-tuning EfficientNet-B4 on HAM10000 (10,015 images · 7 classes)</li>
+        <li>Grad-CAM heatmaps highlight the image region driving each prediction</li>
+        <li>Two FastAPI endpoints keep the vision model & LLM pipeline separate</li>
+      </ul>
+      <a href="https://github.com/janvhi2308"><b>View Code →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Certifications</h3>
+      <br/>
+      <ul>
+        <li>
+          <b>Data Analyst Course</b> — Code With Harry<br/>
+          <i>SQL · Python · Excel · Power BI · EDA · Dashboard Building</i>
+        </li>
+        <br/>
+        <li>
+          <b>Python Programming</b> — Infosys Springboard<br/>
+          <i>OOP · Data Structures · File Handling · Control Flow</i>
+        </li>
+        <br/>
+        <li>
+          <b>AI Virtual Internship</b> — IBM (in progress)<br/>
+          <i>ML models · PyTorch CNNs/RNNs · LLM-based chatbot</i>
+        </li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -149,7 +201,6 @@ me.say_hi()
 </p>
 
 ---
-
 
 ## 💬 Quote of the Day
 
